@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e600b0a4-b88f-48fd-9878-6a68704f0bd6
+      url: https://pengyunc.quarto.pub/week7
